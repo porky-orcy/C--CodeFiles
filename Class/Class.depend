@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1388352286 source:/Users/hobgoblin/Documents/C++/Class/main.cpp
+	<iostream>
+	<Myclass.h>
+
+1388352309 /Users/hobgoblin/Documents/C++/Class/include/Myclass.h
+
